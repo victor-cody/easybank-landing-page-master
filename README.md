@@ -1,5 +1,5 @@
 # Frontend Mentor - Easybank landing page
- 👉 <a src="https://victor-cody.github.io/easybank-landing-page-master/"> Live Demo </a>
+# 👉 <a src="https://victor-cody.github.io/easybank-landing-page-master/"> Live Demo </a>
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 <img src="media/Screenshot_Easybank landing page.png">
 
